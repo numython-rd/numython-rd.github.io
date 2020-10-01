@@ -541,7 +541,7 @@ INDEX_PATH = "blog"
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
+    DEFAULT_LANG: 'pages/index.html'
 }
 
 # Create per-month archives instead of per-year
