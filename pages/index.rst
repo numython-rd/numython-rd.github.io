@@ -7,8 +7,16 @@
 .. description: 
 .. type: text
 
+*********
 Proyectos
-=========
+*********
 
 .. raw:: html
 	:file: .\files\info.html
+
+
+************************
+Desarrollo de tecnología
+************************
+
+TODO
