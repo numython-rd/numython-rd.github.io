@@ -1,7 +1,7 @@
 'robots_file', (0, 56)
 'copy_assets:output\\assets\\css\\ipython.min.css', (512, 452)
 'render_listings:output\\listings\\index.html', (1024, 1590)
-'sitemap:output\\sitemap.xml', (3072, 1965)
+'sitemap:output\\sitemap.xml', (3072, 1963)
 'render_galleries', (5120, 56)
 'render_taxonomies:output\\rss.xml', (5632, 144)
 'render_taxonomies', (6144, 56)
