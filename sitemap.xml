@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://numython-rd.github.io/</loc>
-  <lastmod>2020-10-01T05:51:00Z</lastmod>
+  <lastmod>2020-10-01T05:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://numython-rd.github.io/2020/</loc>
+  <lastmod>2020-10-01T05:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://numython-rd.github.io/archive.html</loc>
-  <lastmod>2020-10-01T05:41:00Z</lastmod>
+  <lastmod>2020-10-01T05:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://numython-rd.github.io/blog/</loc>
@@ -30,7 +34,7 @@
   <lastmod>2020-10-01T05:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://numython-rd.github.io/pages/</loc>
-  <lastmod>2020-10-01T05:41:00Z</lastmod>
+  <loc>https://numython-rd.github.io/posts/welcome-to-numython/</loc>
+  <lastmod>2020-10-01T05:57:00Z</lastmod>
  </url>
 </urlset>
