@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Numython"  # (translatable)
-BLOG_TITLE = "Numython RD"  # (translatable)
+BLOG_TITLE = "Numython R&D"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://numython-rd.github.io/"
@@ -25,7 +25,7 @@ SITE_URL = "https://numython-rd.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://numython-rd.github.io/"
 BLOG_EMAIL = "delossantosmfq@gmail.com"
-BLOG_DESCRIPTION = "Test"  # (translatable)
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -136,7 +136,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-    	("/blog/index/", "Blog"),
+    	("/blog/index", "Blog"),
         ("/archive.html", "Archivo"),
         ("/categories/", "Etiquetas"),
         ("/rss.xml", "Canal RSS"),
