@@ -1,4 +1,0 @@
-Sitemap: https://numython-rd.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: numython-rd.github.io
