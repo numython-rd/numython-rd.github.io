@@ -1,4 +1,4 @@
-.. title: Testeando
+.. title: Numython R&D
 .. slug: index
 .. date: 2020-10-01 00:39:45 UTC-05:00
 .. tags: 
@@ -7,4 +7,8 @@
 .. description: 
 .. type: text
 
-Escriba su página aquí. sasasa
+Proyectos
+=========
+
+.. raw:: html
+	:file: .\files\info.html
