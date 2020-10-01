@@ -67,3 +67,4 @@
 'copy_assets:output\\assets\\js\\fancydates.js', (69632, 444)
 'render_taxonomies:output\\blog\\index.html', (70144, 5039)
 'copy_assets:output\\assets\\css\\rst_base.css', (75264, 446)
+'render_galleries:output\\galleries', (75776, 145)
