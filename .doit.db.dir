@@ -68,3 +68,4 @@
 'render_pages:output\\blog\\welcome-to-numython\\index.html', (90112, 6643)
 'copy_files:output\\info.html', (84992, 242)
 'copy_files:output\\projects\\cime\\img\\logo-cime-300x300.png', (112640, 307)
+'copy_files:output\\favicon.ico', (113152, 246)
